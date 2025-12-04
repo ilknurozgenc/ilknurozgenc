@@ -31,7 +31,6 @@ Güncel olarak çalıştığım ve uzmanlaştığım teknolojiler:
 Popüler repolar:
 
 * **[Machine_learning_projects](https://github.com/ilknurozgenç/Machine_learning_projects)**: Temel ve ileri düzey ML algoritmalarının uygulamaları.
-* **[ai-agents-for-beginners](https://github.com/ilknurozgenç/ai-agents-for-beginners)**: Yapay zeka ajanları ve temel bot geliştirme örnekleri.
 * **[Image Prossing Object Detection](https://github.com/ilknurozgenc/Image_Prossesing_Object_Detection)**: Nesne tespiti üzerine yaptığım uygulamalar ve deneyler.
 
 ---
