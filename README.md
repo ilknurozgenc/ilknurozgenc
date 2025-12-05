@@ -36,6 +36,8 @@ Popüler repolar:
 
 ---
 
+<br>
+
 ### 📫 Benimle İletişime Geçin
 
 Profesyonel ağımı genişletmekten ve yeni işbirlikleri kurmaktan her zaman mutluluk duyarım!
@@ -44,4 +46,4 @@ Profesyonel ağımı genişletmekten ve yeni işbirlikleri kurmaktan her zaman m
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ilknurozgenc.medium.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ilknurzgen)
 
-<br>
+
