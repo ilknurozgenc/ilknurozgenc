@@ -10,6 +10,7 @@ Python, Jupyter Notebook ve Derin Öğrenme (Deep Learning) modelleri kullanarak
 
 
 ---
+
 <br>
 
 ### 💡 Odak Alanlarım ve Yeteneklerim
