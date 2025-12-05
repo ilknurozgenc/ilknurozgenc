@@ -8,9 +8,9 @@
 
 Python, Jupyter Notebook ve Derin Öğrenme (Deep Learning) modelleri kullanarak gerçek dünya problemlerine çözümler üreten, çözüme odaklı bir geliştiriciyim. Yapay Zeka dünyasındaki yenilikleri yakından takip ediyor ve öğrendiklerimi açık kaynak projelerde uygulamayı hedefliyorum.
 
-<br>
 
 ---
+<br>
 
 ### 💡 Odak Alanlarım ve Yeteneklerim
 
